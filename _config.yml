@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "dirt" # options: default, air, sunrise, mint, dirt, contrast
-title                    : "Brian A. Robinson"
+title                    : "Dr. Brian A. Robinson"
 title_separator          : "-"
-name                     : &name "Brian A. Robinson"
+name                     : &name "B. A. Robinson, PhD"
 description              : &description "Historian of African American history, public history, and digital humanities"
 url                      : "https://brobin09.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
@@ -24,7 +24,7 @@ repository               : "brobin09/BrianRPhD"
 author:
   # Biographic information
   avatar           : "profile.png" # TODO: add a headshot to /images/ and update this filename
-  name             : "Brian A. Robinson"
+  name             : "B. A. Robinson, PhD"
   pronouns         : 
   bio              : "Historian of African American history and public history, working at the intersection of digital humanities and Black cultural philosophy."
   location         : "Durham, NC"
