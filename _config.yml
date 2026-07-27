@@ -15,8 +15,8 @@ name                     : &name "Brian A. Robinson"
 description              : &description "Historian of African American history, public history, and digital humanities"
 url                      : "https://brobin09.github.io"
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
-baseurl                  : "/DrRobpage" # the subpath of your site
-repository               : "brobin09/DrRobpage"
+baseurl                  : "/BrianRPhD" # the subpath of your site
+repository               : "brobin09/BrianRPhD"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
 #               If a field is blank the icon and link will not appear, otherwise it will be shown.
